@@ -1,9 +1,11 @@
-import { Slot } from "expo-router";
+import { Slot, Stack } from "expo-router";
 import { StyleSheet, Text, View } from "react-native";
 
 const RootLayout = () => {
   return (
-    <Slot/>
+    <Stack>
+
+    </Stack>
   );
 };
 
